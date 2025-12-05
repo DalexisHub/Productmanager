@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397962663202",
+    "project_id": "productmanager-8f82f",
+    "storage_bucket": "productmanager-8f82f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397962663202:android:5a1ecdcbb47dd39cd1817b",
+        "android_client_info": {
+          "package_name": "com.tecsup.productmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmTkMcmD9Yy49XEFNGBLku9M8HP0LB3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
